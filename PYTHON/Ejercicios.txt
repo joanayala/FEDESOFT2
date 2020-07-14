@@ -1,0 +1,12 @@
+Crear un script en Python 
+que a través de un ciclo While permita listar
+la tabla de multiplicar del numero 9
+
+9 x 1 = 9
+9 x 2 = 18
+.
+.
+.
+.
+.
+9 x 10 = 90
